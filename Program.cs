@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Data.CData.Snowflake;
 
 namespace Snowflake
